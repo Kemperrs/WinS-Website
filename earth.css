@@ -1,0 +1,7 @@
+.sphere {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  margin: 10px;
+  box-shadow: 1px 0 5px 2px rgba(0,50,0,.3) inset;
+}
